@@ -3,30 +3,7 @@
         "name": "我的常用",
         "icon": "./images/menu/icon.svg",
         "site": [
-            {
-                "name": "Iconfont",
-                "description": "免费，中文，图标数量丰富，包含插画资源",
-                "url": "https://www.iconfont.cn",
-                "image": "./images/site/iconfont.png"
-            },
-            {
-                "name": "Ikonate",
-                "description": "免费，样式统一，可调大小、粗细、颜色等参数",
-                "url": "https://ikonate.com",
-                "image": "./images/site/ikonate.jpg"
-            },
-            {
-                "name": "Remix Icon",
-                "description": "免费，精致统一的开源图标",
-                "url": "https://remixicon.com",
-                "image": "./images/site/remix.jpg"
-            },
-            {
-                "name": "Iconscout",
-                "description": "精美丰富，包含很多冷门类型",
-                "url": "https://iconscout.com",
-                "image": "./images/site/iconscout.jpg"
-            },
+           
             {
                 "name": "ICONS8",
                 "description": "多风格",
