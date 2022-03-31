@@ -4,12 +4,6 @@
         "icon": "./images/menu/icon.svg",
         "site": [
             {
-                "name": "IconPark",
-                "description": "免费，规范、统一、多风格切换",
-                "url": "https://iconpark.oceanengine.com/home",
-                "image": "./images/site/iconpark.jpg"
-            },
-            {
                 "name": "Iconfont",
                 "description": "免费，中文，图标数量丰富，包含插画资源",
                 "url": "https://www.iconfont.cn",
